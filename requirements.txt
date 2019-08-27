@@ -1,7 +1,7 @@
 Cython>=0.25
 h5py>=2.3
 matplotlib>=1.0
-numpy>=1.15,<1.16
+numpy>=1.17,<1.18
 pandas>=0.12
 scipy>=0.18
 scikit-image
