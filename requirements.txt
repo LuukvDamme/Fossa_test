@@ -10,3 +10,4 @@ seaborn>=0.7
 spacy>=2.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.0.0/en_core_web_sm-2.0.0.tar.gz
 tqdm
+pillow>=8.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
